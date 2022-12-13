@@ -11,7 +11,7 @@ display the players according to their BMI descendingly
 6. Display the number of players from each country, showing the 5 least present
 countries.
 
-## 3- A compilation of information about NYC yellow taxi
+## 3- Findings about NYC yellow taxi
 cab trips
 The dataset used for this task is a compilation of information about NYC yellow taxi
 cab trips. The notebook contains some functionalities and answer
